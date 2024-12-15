@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*2)$8s%nqy@c7w)@8*p&(a(mau61=zo^rp$lv_6szv#0#xtx!x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tax-calculator-qldc.onrender.com']
 
 
 # Application definition
